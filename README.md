@@ -15,4 +15,4 @@
 - Figma.
 
 ## Ссылка на сайт
-[Путешествия по России](https://github.com/SlavaSamoylov/russian-travel/blob/main/index.html)
+[Путешествия по России](https://slavasamoylov.github.io/russian-travel/)
