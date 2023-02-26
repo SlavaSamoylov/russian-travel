@@ -13,4 +13,8 @@
     .place__paragraph {
         font-size: 18px;
     }
+
+    .place__paragraph:not(:last-child) {
+        margin-bottom: 26px;
+    }
 }
