@@ -12,6 +12,7 @@
 @media screen and (min-width: 1024px) {
     .place__paragraph {
         font-size: 18px;
+        line-height: 29.34px;
     }
 
     .place__paragraph:not(:last-child) {
